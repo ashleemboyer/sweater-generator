@@ -19,7 +19,6 @@ section {
 }
 
 section:not(:last-child) {
-  margin-bottom: 16px;
   margin-right: 32px;
 }
 
